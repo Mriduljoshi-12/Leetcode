@@ -25,4 +25,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/3345-smallest-divisible-digit-product-i) |
+## Array
+|  |
+| ------- |
+| [1313-decompress-run-length-encoded-list](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/1313-decompress-run-length-encoded-list) |
 <!---LeetCode Topics End-->
