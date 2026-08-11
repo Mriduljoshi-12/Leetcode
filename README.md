@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0441-arranging-coins) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -29,4 +30,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [1313-decompress-run-length-encoded-list](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/1313-decompress-run-length-encoded-list) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
