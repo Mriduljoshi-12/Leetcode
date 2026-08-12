@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0283-move-zeroes) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/1313-decompress-run-length-encoded-list) |
 ## Binary Search
@@ -38,5 +39,6 @@ Here are some ideas to get you started:
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
