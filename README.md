@@ -29,9 +29,14 @@ Here are some ideas to get you started:
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0283-move-zeroes) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/1313-decompress-run-length-encoded-list) |
 ## Binary Search
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0441-arranging-coins) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
