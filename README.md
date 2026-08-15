@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 | [0283-move-zeroes](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0628-maximum-product-of-three-numbers) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/1313-decompress-run-length-encoded-list) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,8 +49,13 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0050-powx-n) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
