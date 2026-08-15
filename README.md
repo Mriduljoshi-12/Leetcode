@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0628-maximum-product-of-three-numbers) |
@@ -72,4 +73,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
