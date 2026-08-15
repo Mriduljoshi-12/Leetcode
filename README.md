@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 | [0283-move-zeroes](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0628-maximum-product-of-three-numbers) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/1313-decompress-run-length-encoded-list) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
@@ -57,6 +58,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0628-maximum-product-of-three-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Recursion
 |  |
@@ -82,8 +84,13 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0001-two-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
