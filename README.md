@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0001-two-sum](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -60,6 +61,7 @@ Here are some ideas to get you started:
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -115,4 +117,8 @@ Here are some ideas to get you started:
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
