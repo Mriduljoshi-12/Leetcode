@@ -128,5 +128,6 @@ Here are some ideas to get you started:
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0058-length-of-last-word) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
