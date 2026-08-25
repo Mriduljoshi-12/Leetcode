@@ -1,17 +1,14 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
         int len=nums.length;
-        for(int mul=k;mul<=k*(len+1);mul+=k){
-            boolean found=false;
-            for(int num:nums){
-                if(num==mul){
-                    found=true;
-                    break;
-                }
+        Arrays.sort(nums);
+        int ex=k;
+        for(int i=0;i<len;i++){
+            if(nums[i]==ex){
+                ex+=k;
             }
-            if(!found)return mul;   
-        }
-    
-        return -1;
+            else if(nums[i]>ex) {return ex;}
+            }
+        return ex;
     }
 }
