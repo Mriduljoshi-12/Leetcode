@@ -11,17 +11,13 @@ class Solution {
                 end--;
             }
             if(isvowel(ch[start]) && isvowel(ch[end])){
-                swap(ch,start,end);
-                start++;
-                end--;
+            char temp = ch[start];
+            ch[start]=ch[end];
+            ch[end]=temp;
+            start++;
+            end--;
             }
         }return new String (ch);
-
-    }
-    public void swap(char[] w,int start,int end){
-        char temp = w[start];
-        w[start]=w[end];
-        w[end]=temp;
     }
     public boolean isvowel(char c){
         return c=='a'||c=='e'||c=='i'||c=='o'||c=='u'
