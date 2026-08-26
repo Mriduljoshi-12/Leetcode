@@ -4,13 +4,13 @@ class Solution {
         int start=0;
         int end=s.length()-1;
         while(start<end){
-            while(start< end && !isvowel(ch[start])){
+            if(!isvowel(ch[start])){
                 start++;
             }
-            while(start< end && !isvowel(ch[end])){
+            if(!isvowel(ch[end])){
                 end--;
             }
-            if(start<end){
+            if(isvowel(ch[start]) && isvowel(ch[end])){
                 swap(ch,start,end);
                 start++;
                 end--;
@@ -24,6 +24,7 @@ class Solution {
         w[end]=temp;
     }
     public boolean isvowel(char c){
-        return c=='a'||c=='e'||c=='i'||c=='o'||c=='u'||c=='A'||c=='E'||c=='I'||c=='O'||c=='U';
+        return c=='a'||c=='e'||c=='i'||c=='o'||c=='u'
+               ||c=='A'||c=='E'||c=='I'||c=='O'||c=='U';
     }
 }
