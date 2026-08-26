@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 | [0011-container-with-most-water](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -136,6 +137,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0058-length-of-last-word) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Quickselect
