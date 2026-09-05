@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0050-powx-n) |
+| [0367-valid-perfect-square](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -66,6 +67,7 @@ Here are some ideas to get you started:
 | [0004-median-of-two-sorted-arrays](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
