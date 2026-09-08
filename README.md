@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2090-k-radius-subarray-averages](https://github.com/Mriduljoshi-12/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [3477-fruits-into-baskets-ii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -146,6 +147,7 @@ Here are some ideas to get you started:
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2090-k-radius-subarray-averages](https://github.com/Mriduljoshi-12/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 ## Prefix Sum
 |  |
 | ------- |
