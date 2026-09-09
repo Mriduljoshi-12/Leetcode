@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 | [0217-contains-duplicate](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -149,6 +150,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
