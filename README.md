@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 | [0367-valid-perfect-square](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0628-maximum-product-of-three-numbers) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mriduljoshi-12/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -102,6 +103,7 @@ Here are some ideas to get you started:
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mriduljoshi-12/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2785-sort-vowels-in-a-string](https://github.com/Mriduljoshi-12/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Recursion
 |  |
@@ -169,6 +171,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0881-boats-to-save-people) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mriduljoshi-12/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## String
 |  |
 | ------- |
