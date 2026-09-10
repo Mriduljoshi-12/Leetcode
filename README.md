@@ -131,6 +131,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0645-set-mismatch) |
@@ -154,6 +155,7 @@ Here are some ideas to get you started:
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -177,6 +179,7 @@ Here are some ideas to get you started:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
