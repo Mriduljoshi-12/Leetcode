@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2090-k-radius-subarray-averages](https://github.com/Mriduljoshi-12/Leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3477-fruits-into-baskets-ii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -142,6 +143,7 @@ Here are some ideas to get you started:
 | [0645-set-mismatch](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
@@ -154,6 +156,7 @@ Here are some ideas to get you started:
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
