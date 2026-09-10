@@ -137,6 +137,7 @@ Here are some ideas to get you started:
 | [0645-set-mismatch](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
@@ -164,6 +165,7 @@ Here are some ideas to get you started:
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/Mriduljoshi-12/Leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -189,6 +191,7 @@ Here are some ideas to get you started:
 | [1768-merge-strings-alternately](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2785-sort-vowels-in-a-string](https://github.com/Mriduljoshi-12/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Quickselect
 |  |
 | ------- |
