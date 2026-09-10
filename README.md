@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 | [0033-search-in-rotated-sorted-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0283-move-zeroes) |
@@ -77,6 +78,7 @@ Here are some ideas to get you started:
 | [0004-median-of-two-sorted-arrays](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -159,6 +161,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -172,6 +175,7 @@ Here are some ideas to get you started:
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3903-smallest-stable-index-i) |
