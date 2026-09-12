@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Here are some ideas to get you started:
 | [2090-k-radius-subarray-averages](https://github.com/Mriduljoshi-12/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3477-fruits-into-baskets-ii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -117,6 +119,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -147,6 +150,7 @@ Here are some ideas to get you started:
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
