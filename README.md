@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 | [0011-container-with-most-water](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -142,6 +143,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0001-two-sum](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0645-set-mismatch) |
