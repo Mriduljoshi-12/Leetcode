@@ -5,7 +5,7 @@ class Solution {
         while(n!=0){
             rev= rev*10 + (n%10);
             n/=10;
-    }
+         }
         return Math.abs(orig-rev);
     }
 }
