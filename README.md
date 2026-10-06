@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 | [0215-kth-largest-element-in-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0645-set-mismatch) |
@@ -145,6 +146,7 @@ Here are some ideas to get you started:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0904-fruit-into-baskets) |
