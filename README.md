@@ -231,4 +231,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0645-set-mismatch) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
