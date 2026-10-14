@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0050-powx-n) |
 | [0367-valid-perfect-square](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0441-arranging-coins) |
