@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 | [0713-subarray-product-less-than-k](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/1313-decompress-run-length-encoded-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -115,6 +116,7 @@ Here are some ideas to get you started:
 | [0628-maximum-product-of-three-numbers](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -129,6 +131,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Segment Tree
 |  |
@@ -167,6 +170,7 @@ Here are some ideas to get you started:
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mriduljoshi-12/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -175,6 +179,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0912-sort-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -236,4 +241,16 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0584-find-customer-referee) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
