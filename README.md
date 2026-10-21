@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0009-palindrome-number](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0628-maximum-product-of-three-numbers) |
@@ -140,6 +141,7 @@ Here are some ideas to get you started:
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0258-add-digits) |
 | [3477-fruits-into-baskets-ii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -253,4 +255,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0912-sort-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
