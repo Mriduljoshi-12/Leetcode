@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 | [0033-search-in-rotated-sorted-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -102,6 +103,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -112,6 +114,7 @@ Here are some ideas to get you started:
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mriduljoshi-12/Mriduljoshi-12/tree/master/0628-maximum-product-of-three-numbers) |
@@ -269,4 +272,12 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0022-generate-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
