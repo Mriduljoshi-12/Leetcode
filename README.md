@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mridul 👋<br><br>🎓 B.Tech CSE — AI & Data Science student<br>💻 Learning Data Structures & Algorithms, Java, Web Development & AI/ML<br>🚀 Building projects to turn ideas into practical solutions<br>🏆 Hackathon enthusiast | Problem Solver | Tech Explorer<br>📊 Interested in AI, Data Science  & Full-Stack Development<br>📚 Currently improving my coding skills and solving problems consistently<br><br>«Learn. Build. Break. Improve. Repeat.»<br><br>📫 Let's connect and build something interesting!
+Hi, I'm Mridul 👋<br><br>🎓 B.Tech CSE — AI & Data Science student<br>💻 Learning Data Structures & Algorithms, Java, Web Development & AI/ML<br>🚀 Building projects to turn ideas into practical solutions<br>🏆 Hackathon enthusiast | Problem Solver | Tech Explorer<br>📊 Interested in AI, Data Science  & Full-Stack Development<br>📚 Currently improving my coding skills and solving problems consistently<br><br>«Learn. Build. Break. Improve. Repeat.»<br><br>📫 Let's connect and build something interesting! 
 
 
 ## 🌐 Socials:
