@@ -19,3 +19,15 @@ Hi, I'm Mridul 👋<br><br>🎓 B.Tech CSE — AI & Data Science student<br>💻
 [![](https://komarev.com/ghpvc/?username=Mriduljoshi-12&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0707-design-linked-list) |
+<!---LeetCode Topics End-->
