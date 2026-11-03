@@ -33,9 +33,15 @@ Hi, I'm Mridul 👋<br><br>🎓 B.Tech CSE — AI & Data Science student<br>💻
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
