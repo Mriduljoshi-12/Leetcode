@@ -30,4 +30,12 @@ Hi, I'm Mridul 👋<br><br>🎓 B.Tech CSE — AI & Data Science student<br>💻
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0707-design-linked-list) |
+## Array
+|  |
+| ------- |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+## Math
+|  |
+| ------- |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
