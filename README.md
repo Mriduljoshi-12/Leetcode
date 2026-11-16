@@ -34,11 +34,13 @@ Hi, I'm Mridul 👋<br><br>🎓 B.Tech CSE — AI & Data Science student<br>💻
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
