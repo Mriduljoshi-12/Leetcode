@@ -61,4 +61,8 @@ Hi, I'm Mridul 👋<br><br>🎓 B.Tech CSE — AI & Data Science student<br>💻
 |  |
 | ------- |
 | [3046-split-the-array](https://github.com/Mriduljoshi-12/Leetcode/tree/master/3046-split-the-array) |
+## String
+|  |
+| ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Mriduljoshi-12/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
